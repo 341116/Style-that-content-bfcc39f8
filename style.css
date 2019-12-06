@@ -1,0 +1,29 @@
+
+
+.navbar{
+	display: flex;
+	flex-flow: row;
+	justify-content: space-around;
+	background-color: orange;
+}
+.content{
+     display: flex;
+     flex-flow: row wrap;
+     justify-content: center;
+     background-color:#FAEBD7;
+     }
+
+     .news{
+     	width: 30%;
+     }
+
+     .content >p{
+     	width: 100%;
+     	display: flex;
+     	justify-content: center;
+     	align-content: space-between;
+
+
+     	
+
+     }
